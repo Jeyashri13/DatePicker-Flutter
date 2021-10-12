@@ -1,16 +1,7 @@
 # date_picker
 
-A new Flutter project.
+A simple flutter code to add DatePicker (dd-MM-yyyy) in TextFormField using onTap function without using external buttons.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/57927019/136880195-85e760ef-9875-4a00-83a1-f5dbaf6a2625.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
